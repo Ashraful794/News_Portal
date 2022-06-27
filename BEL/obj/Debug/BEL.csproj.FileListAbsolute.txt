@@ -1,0 +1,6 @@
+E:\Problem Solving New\News Portal\BEL\bin\Debug\BEL.dll
+E:\Problem Solving New\News Portal\BEL\bin\Debug\BEL.pdb
+E:\Problem Solving New\News Portal\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+E:\Problem Solving New\News Portal\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+E:\Problem Solving New\News Portal\BEL\obj\Debug\BEL.dll
+E:\Problem Solving New\News Portal\BEL\obj\Debug\BEL.pdb
